@@ -18,9 +18,9 @@ This project is not about methodology as much as it is about tactics and tools t
 
  Things always change as knowledge is gained throughout the chain of progression across: `concepts -> features -> artifacts -> implementations -> integrations -> merges -> bugs`
 
-## I Want -- That Means (Patterns Diagram)
+## I Want -- That Means (Flow Diagram)
 
-![IWTM pattern Diagram](https://github.com/devdug/iwtm/blob/master/images/IWTM-Flow-V0.0.1.jpg)
+![IWTM Flow Diagram](https://github.com/devdug/iwtm/blob/master/images/IWTM-Flow-V0.0.1.jpg)
 
 
 
