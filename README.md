@@ -10,6 +10,14 @@ And as importantly, educate stake holders so they are not unknowingly making bad
 
 This project is not about methodology as much as it is about tactics and tools to gather pertinent timely data and transform that into useful and meaningful visibility for all concerned.
 
+## Goals
+- Eat my own dog-food by using the IWTM to develop IWTM.
+- Develop tools that will unobtrusively gather metrics as project assets are created.
+- Have consistent patterns for the decomposition of what a `want` really `means`.
+- Consistent feedback to qualify and quantify lower level `bottom up` effects on higher level `wants`.  
+
+ Things always change as knowledge is gained throughout the chain of progression across: `concepts -> features -> artifacts -> implementations -> integrations -> merges -> bugs`
+
 ## I Want -- That Means (Patterns Diagram)
 
 ![IWTM pattern Diagram](https://github.com/devdug/iwtm/blob/master/images/IWTM-Flow-V0.0.1.jpg)
